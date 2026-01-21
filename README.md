@@ -1,2 +1,2 @@
-# Blerand-upi
+# Blerand-Çupi
 My GitHub profile README
