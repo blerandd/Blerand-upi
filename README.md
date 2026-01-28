@@ -39,6 +39,11 @@ I enjoy building full-stack applications and working on system-level projects.
 - Bootstrap
 - Tailwind CSS
 
+**Mobile**
+- SwiftUI / UIKit
+- React Native
+- Xcode (iOS Development)
+
 **Databases**
 - MySQL
 - PostgreSQL (pgAdmin)
