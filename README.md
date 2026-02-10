@@ -51,6 +51,12 @@ I enjoy building full-stack applications and working on system-level projects.
 **Core**
 - Operating Systems
 - Data Structures & Algorithms
+- Discrete Mathematics
+- Calculus (Differential & Integral)
+- Linear Algebra
+- Geometry & Trigonometry
+- Probability & Statistics
+
 
 ---
 
